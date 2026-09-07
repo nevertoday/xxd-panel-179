@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 179"
+  short_description: "Ribbon-like Miniature Vignette Display"
+  default_prompt: "Use $xxd-panel-179 to transform my photograph following the complete canonical source brief."
