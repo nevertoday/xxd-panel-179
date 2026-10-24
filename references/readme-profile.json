@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 179｜Ribbon-like Miniature Vignette Display: turns the core of a photo into a few curated miniature exhibits laid out sparsely on one light, floating ribbon-shaped display surface — a slow S-curve, arc or gentle fold in warm ivory and faint grey, shaped by its flowing outline, fine etched lines and faint text texture, not a road, table or heavy plinth. Exhibits sit between miniature model, Eastern collage and editorial illustration; tiny text can become grey texture inside the ribbon or exhibits. 70–85% whitespace; strong ultramarine, vermilion and ochre-gold (with a touch of teal) appear only on the exhibits. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-179 or asks for a ribbon display, miniature exhibit or editorial still-life vignette from a photo.",
+  "short_description": "丝带微缩陈列志：把照片的核心做成几件微缩展品，疏疏地摆在一条漂浮的象牙色丝带上",
+  "zh-CN": {
+    "name": "丝带微缩陈列志",
+    "tagline": "把照片的核心做成几件微缩展品，疏疏地摆在一条漂浮的象牙色丝带上。",
+    "look": "画面中有一条轻盈流动的丝带状台面，呈缓慢的 S 形、弧形或轻轻折起，像悬在空中的柔软平面，不是道路、桌子或厚底座。丝带是暖象牙白和米白纸色，只靠流动轮廓、轻微起伏、蚀刻细线和淡淡的文字纹理分出层次。照片里最核心的东西被做成几件微缩展品，介于微缩模型、东方拼贴和编辑插画之间，数量少、间距宽。高纯度的群青蓝、朱红、赭金和一点青绿只集中在展品上，其余接近无彩色。画面 70–85% 是留白，细小文字可以化成丝带或展品里的灰色纹理，留白处另有极少的细灰注释。",
+    "traits": [
+      "丝带式展台",
+      "微缩展品",
+      "70–85% 留白",
+      "群青朱红赭金",
+      "文字纹理"
+    ],
+    "good": [
+      "能拆成几件“展品”的照片：一组建筑、桌上的几样器物、庭院里的亭子和树",
+      "有文化或旅行意味的题材：古镇、寺庙、博物馆藏品、茶具",
+      "想做成展览海报、文化出版物或静物编辑插画的照片"
+    ],
+    "poor": [
+      "以单个人物的表情和姿态为主的人像，放在展台上会很小",
+      "色彩低调、想保留原有配色的照片，这里会集中成群青、朱红、赭金",
+      "想要写实丝绸、厚重展台、复杂 3D 或满版场景的需求"
+    ]
+  },
+  "en": {
+    "name": "Ribbon-like Miniature Vignette Display",
+    "tagline": "Turns the heart of your photo into a few miniature exhibits spaced along a floating ivory ribbon.",
+    "look": "A light, flowing ribbon-shaped display surface runs through the frame in a slow S-curve, an arc or a gentle fold, like a soft plane hovering in the air rather than a road, a table or a heavy plinth. The ribbon is warm ivory and paper cream, shaped only by its flowing outline, slight undulations, fine etched lines and faint text texture. The core of the photo becomes a few miniature exhibits, somewhere between scale model, Eastern collage and editorial illustration, few in number and widely spaced. Strong ultramarine, vermilion and ochre-gold with a touch of teal appear only on the exhibits, and everything else stays almost colourless. About 70–85% of the design is white space; tiny text can turn into grey texture inside the ribbon or exhibits, and a few fine grey notes sit in the margins.",
+    "traits": [
+      "Ribbon display",
+      "Miniature exhibits",
+      "70–85% whitespace",
+      "Ultramarine, vermilion, ochre-gold",
+      "Text as texture"
+    ],
+    "good": [
+      "Photos that break into a few exhibits: a group of buildings, a few objects on a table, a pavilion and trees in a courtyard",
+      "Cultural or travel subjects: an old town, a temple, museum pieces, a tea set",
+      "Photos you want as an exhibition poster, a cultural publication or an editorial still-life illustration"
+    ],
+    "poor": [
+      "Portraits that rely on one person's expression and pose, which become very small on the display",
+      "Subdued photos whose own palette must stay, since colour gathers into ultramarine, vermilion and ochre-gold",
+      "Requests for realistic silk, a heavy display stand, complex 3D or an edge-to-edge scene"
+    ]
+  },
+  "ja": {
+    "name": "リボン状の微小展示風景",
+    "tagline": "写真の核をいくつかのミニチュアの展示品にし、宙に浮かぶ象牙色のリボンの上にまばらに並べます。",
+    "look": "画面には軽やかに流れるリボン状の展示台があり、ゆるやかな S 字、弧、軽い折り返しを描いて、道や机、重い台座ではなく宙に浮かぶやわらかな平面のように見えます。リボンは温かな象牙色と生成りの紙の色で、流れる輪郭、わずかな起伏、細いエッチングの線、淡い文字の質感だけで層を表します。写真の核となるものは、ミニチュア模型、東洋のコラージュ、編集イラストのあいだのようないくつかの展示品になり、数は少なく間隔は広くとります。鮮やかな群青、朱、黄土金とわずかな青緑は展示品にだけ集まり、それ以外はほぼ無彩色です。画面の 70〜85% は余白で、小さな文字はリボンや展示品の中の灰色の質感になり、余白にはごく細い灰色の注記が少しだけ入ります。",
+    "traits": [
+      "リボン状の展示台",
+      "ミニチュアの展示品",
+      "70〜85% の余白",
+      "群青・朱・黄土金",
+      "文字を質感に"
+    ],
+    "good": [
+      "いくつかの展示品に分けられる写真：建物の一群、机の上の器物、庭の亭と木",
+      "文化や旅の香りがある題材：古い町並み、寺、博物館の収蔵品、茶器",
+      "展覧会のポスター、文化系の出版物、静物の編集イラストにしたい写真"
+    ],
+    "poor": [
+      "一人の表情や姿勢が中心の肖像（展示台の上ではとても小さくなります）",
+      "色が控えめで元の配色を残したい写真（色は群青、朱、黄土金に集まります）",
+      "写実的な絹、重い展示台、複雑な 3D、画面いっぱいの場面を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "리본형 미니어처 전시 풍경",
+    "tagline": "사진의 핵심을 미니어처 전시품 몇 점으로 만들어, 떠 있는 상아색 리본 위에 드문드문 진열합니다.",
+    "look": "화면에는 가볍게 흐르는 리본 모양 진열대가 느린 S자, 호, 살짝 접힌 모양으로 지나가며, 길이나 탁자, 묵직한 받침대가 아니라 공중에 뜬 부드러운 평면처럼 보입니다. 리본은 따뜻한 상아색과 종이 미색이며, 흐르는 윤곽, 약간의 굴곡, 가는 에칭 선, 옅은 글자 질감만으로 층을 나눕니다. 사진의 핵심은 미니어처 모형, 동양 콜라주, 에디토리얼 일러스트 사이쯤의 전시품 몇 점이 되며, 수는 적고 간격은 넓습니다. 선명한 군청, 주홍, 황토빛 금색과 약간의 청록은 전시품에만 모이고 나머지는 거의 무채색입니다. 화면의 70~85%는 여백이고, 작은 글자는 리본이나 전시품 속 회색 질감이 되며, 여백에는 아주 가는 회색 주석이 조금 들어갑니다.",
+    "traits": [
+      "리본형 진열대",
+      "미니어처 전시품",
+      "70~85% 여백",
+      "군청·주홍·황토금",
+      "글자를 질감으로"
+    ],
+    "good": [
+      "전시품 몇 점으로 나눌 수 있는 사진: 건물 무리, 탁자 위 기물 몇 가지, 정원의 정자와 나무",
+      "문화나 여행의 분위기가 있는 소재: 옛 마을, 사찰, 박물관 소장품, 다기",
+      "전시 포스터, 문화 출판물, 정물 에디토리얼 일러스트로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "한 사람의 표정과 자세가 중심인 인물 사진(진열대 위에서는 아주 작아집니다)",
+      "색이 차분해 원래 배색을 살려야 하는 사진(색이 군청, 주홍, 황토금으로 모입니다)",
+      "사실적인 비단, 묵직한 진열대, 복잡한 3D, 꽉 찬 장면을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "عرض مشاهد مصغرة على شريط عائم",
+    "tagline": "يحوّل قلب صورتك إلى بضع قطع عرض مصغّرة متباعدة على شريط عاجي عائم.",
+    "look": "يمر في الإطار سطح عرض خفيف منساب على هيئة شريط، في منحنى بطيء على شكل حرف S أو قوس أو طيّة لطيفة، كأنه مستوى ناعم يطفو في الهواء لا طريق ولا طاولة ولا قاعدة ثقيلة. الشريط عاجي دافئ وبلون الورق الكريمي، ولا تبني طبقاتِه إلا حدودُه المنسابة وتموجاته الخفيفة وخطوط محفورة دقيقة وملمس نصي باهت. يصبح جوهر الصورة بضع قطع عرض مصغّرة، بين المجسّم المصغّر والكولاج الشرقي والرسم التحريري، قليلة العدد ومتباعدة. لا يظهر الأزرق اللازوردي والقرمزي والذهبي المغري القوية، مع لمسة من الفيروزي، إلا على القطع المعروضة، ويبقى كل ما عداها شبه عديم اللون. نحو 70 إلى 85 بالمئة من التصميم فراغ أبيض؛ وقد تتحول النصوص الدقيقة إلى ملمس رمادي داخل الشريط أو القطع، وتقع ملاحظات رمادية رفيعة قليلة في الهوامش.",
+    "traits": [
+      "شريط عرض",
+      "قطع عرض مصغّرة",
+      "فراغ 70–85 بالمئة",
+      "لازوردي وقرمزي وذهبي مغري",
+      "النص كملمس"
+    ],
+    "good": [
+      "صور يمكن تقسيمها إلى بضع قطع عرض: مجموعة مبانٍ، أشياء قليلة على طاولة، جوسق وأشجار في فناء",
+      "موضوعات ثقافية أو سياحية: بلدة قديمة، معبد، مقتنيات متحف، طقم شاي",
+      "صور تريدها ملصق معرض أو مطبوعة ثقافية أو رسماً تحريرياً لطبيعة صامتة"
+    ],
+    "poor": [
+      "صور شخصية تعتمد على تعبير شخص واحد ووضعيته، إذ يصبح صغيراً جداً على سطح العرض",
+      "صور هادئة الألوان يجب أن تبقى ألوانها، إذ يتجمع اللون في اللازوردي والقرمزي والذهبي المغري",
+      "طلب حرير واقعي أو منصة عرض ثقيلة أو مظهر ثلاثي الأبعاد معقد أو مشهد يملأ المساحة"
+    ]
+  }
+}

@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 179"
-  short_description: "Ribbon-like Miniature Vignette Display"
-  default_prompt: "Use $xxd-panel-179 to transform my photograph following the complete canonical source brief."
+  short_description: "丝带微缩陈列志：把照片的核心做成几件微缩展品，疏疏地摆在一条漂浮的象牙色丝带上"
+  default_prompt: "Use $xxd-panel-179 to turn my photo into Ribbon-like Miniature Vignette Display artwork."

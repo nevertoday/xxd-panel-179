@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-179
-description: "Create Panel 179 raster artwork: Ribbon-like Miniature Vignette Display. Use when the user invokes xxd-panel-179 or requests this specific visual language."
+description: "XXD Panel 179｜Ribbon-like Miniature Vignette Display: turns the core of a photo into a few curated miniature exhibits laid out sparsely on one light, floating ribbon-shaped display surface — a slow S-curve, arc or gentle fold in warm ivory and faint grey, shaped by its flowing outline, fine etched lines and faint text texture, not a road, table or heavy plinth. Exhibits sit between miniature model, Eastern collage and editorial illustration; tiny text can become grey texture inside the ribbon or exhibits. 70–85% whitespace; strong ultramarine, vermilion and ochre-gold (with a touch of teal) appear only on the exhibits. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-179 or asks for a ribbon display, miniature exhibit or editorial still-life vignette from a photo."
 ---
 
 # XXD Panel 179
